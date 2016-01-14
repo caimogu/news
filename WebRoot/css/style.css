@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+*{
+	magin:0px;
+	padding:0px;
+	margin-left:auto;
+	margin-right:auto;
+}
+body{
+	text-align:center;
+}
+.contain{
+	width:900px;
+	background-color:#CCCCFF;
+	height:500px;
+}
+.header{
+	width:100%;
+	background-color:#FF00FF;
+	height:80px;
+}
+.bodymain{
+	width:100%;
+}
+.left{
+	width:150px;
+	background-color:#00FFFF;
+	float:left;
+}
+.right{
+	float:right;
+	width:750px;
+	background-color:#CC00FF;
+}
